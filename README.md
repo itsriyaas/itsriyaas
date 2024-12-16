@@ -18,6 +18,11 @@
   <code><img height="25" src="/svg/git-icon.svg" alt="git"></code>
   <code><img height="22" src="/svg/terminal-1.svg" alt="terminal"></code>
   <code><img height="27" src="/svg/java-4.svg" alt="java"></code>
+ <code><img height="27" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"></code>
+ <code><img height="27" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express"></code>
+ <code><img height="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular"></code>
+ <code><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"></code>
+ <code><img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node"></code>
   <code><img height="25" src="/svg/css-3.svg" alt="CSS"></code>
   <code><img height="25" src="/svg/javascript.svg" alt="JavaScript"></code>
   <code><img height="26" src="/svg/sql.png" alt="SQL"></code>
