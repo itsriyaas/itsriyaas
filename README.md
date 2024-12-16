@@ -2,7 +2,7 @@
 
 ![Chrome Dino](https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif)
 
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer">Mohamed Riyas 👋 
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/itsriyas-exe" target="_blank" rel="noopener noreferrer">Mohamed Riyas 👋 
  
  
 <a href="https://github.com/itsriyas-exe"><img align='right' src='https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAd/walking-code.gif' width='150"'></a></h2>
