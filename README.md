@@ -5,7 +5,7 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/itsriyas-exe" target="_blank" rel="noopener noreferrer">Mohamed Riyas 👋 
  
  
-<a href="https://github.com/itsriyas-exe"><img align='right' src='https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAd/walking-code.gif' width='150"'></a></h2>
+<a href="https://github.com/itsriyas-exe"><img align='right' src='https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif' width='150"'></a></h2>
 
 - 🎓 Full-Stack Developer intern at Luminar Technolab.
 - 👯 Looking to collaborate on projects that are using MEARN.
