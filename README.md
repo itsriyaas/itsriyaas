@@ -9,7 +9,7 @@
 
 - 🎓 Full-Stack Developer intern at Luminar Technolab.
 - 👯 Looking to collaborate on projects that are using MEARN.
-- 🌟 2024's Objective: Contribute more to open source <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="30">
+- 🌟 2024's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📷 I love photography, programming, Video games and books 
 
 
