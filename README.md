@@ -2,7 +2,7 @@
 
  <!--![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif) -->
 
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/itsriyas-exe" target="_blank" rel="noopener noreferrer">Mohamed Riyas 👋 
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/itsriyas-exe" target="_blank" rel="noopener noreferrer">Riyas 👋 
  
  
 <a href="https://github.com/itsriyas-exe"><img align='right' src='https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif' width='150"'></a></h2>
