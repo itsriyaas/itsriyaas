@@ -32,13 +32,13 @@
 
 <br />
 
-<p>
+<!--<p>
     <details>
      <summary><strong>Github Stats</strong></summary>
      
 [![Mohamed Riyas's github stats](https://github-readme-stats.vercel.app/api?username=itsriyas-exe&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/itsriyas-exe?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsriyas-exe&layout=compact&langs_count=6&theme=blue-green)](https://github.com/itsriyas-exe)
     </details>
-</p>
+</p>-->
 
 
 
