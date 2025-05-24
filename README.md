@@ -7,7 +7,7 @@
  
 <a href="https://github.com/itsriyas-exe"><img align='right' src='https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif' width='150"'></a></h2>
 
-💻 Passionate Full-Stack Developer | JavaScript, React, Node.js | Building clean, scalable web apps |
+💻 Passionate Full-Stack Developer | JavaScript, React, Node.js | Building clean, scalable web apps 
 
 
 #### Languages and Tools 
