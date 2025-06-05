@@ -53,7 +53,6 @@
 
 
 ![GitHub last commit](/svg/last%20commit.svg)
-![pv](https://pageview.vercel.app/?github_user=itsriyas-exe)
 
 
 
