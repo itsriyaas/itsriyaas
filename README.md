@@ -5,7 +5,7 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/itsriyas-exe" target="_blank" rel="noopener noreferrer">Riyas 👋 
  
  
-<a href="https://github.com/itsriyas-exe"><img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFsbHFhY2RtdmtzN3Q1NWxvNHRzZXBpaW51dTNsc2NjZDk0d2M0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4MAH84pqe2m2aVojc/giphy.gif' width='150"'></a></h2>
+<a href="https://github.com/itsriyas-exe"><img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRuYmY4MHZjdHFjYWh0MGxrd3c0Njg1NWV0N3YyYWhpYjk5M2U4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btZ3T6y3JTmjg4w/giphy.gif' width='150"'></a></h2>
 
 💻 Passionate Full-Stack Developer | JavaScript, React, Node.js | Building clean, scalable web apps 
 
