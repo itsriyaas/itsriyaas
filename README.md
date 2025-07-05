@@ -4,28 +4,32 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/itsriyas-exe" target="_blank" rel="noopener noreferrer">Riyas 👋 
  
- 
-<a href="https://github.com/itsriyaas"><img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg5cDJxN2RhcjM0MTU0OXhpcG16bGZtMzh5M3NocXIxNW1laDl6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif' width='150"'></a></h2>
+
 
 💻 Passionate Full-Stack Developer | JavaScript, React, Node.js | Building clean, scalable web apps 
 
 
-#### Languages and Tools 
-<p>
-  <code><img height="25" src="/svg/git-icon.svg" alt="git"></code>
-  <code><img height="22" src="/svg/terminal-1.svg" alt="terminal"></code>
-  <code><img height="27" src="/svg/java-4.svg" alt="java"></code>
- <code><img height="27" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"></code>
- <code><img height="27" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express"></code>
- <code><img height="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular"></code>
- <code><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"></code>
- <code><img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node"></code>
-  <code><img height="25" src="/svg/css-3.svg" alt="CSS"></code>
-  <code><img height="25" src="/svg/javascript.svg" alt="JavaScript"></code>
-  <code><img height="26" src="/svg/sql.png" alt="SQL"></code>
-  <code><img height="25" src="/svg/html-5.svg" alt="HTML"></code>
-  <code><img height="25" src="/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
-</p>
+## 💡 What I Can Do
+With my skills and experience, I can help turn your ideas into beautiful and functional web applications. I specialize in:
+- **Frontend Development**: Crafting user interfaces with **React.js**, **JavaScript**, and **HTML/CSS**.
+- **Backend Development**: Building scalable, robust APIs with **Node.js** and **Express.js**.
+- **Database Management**: Working with **MongoDB** to create efficient, scalable database solutions.
+
+## 🛠 Skills & Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br />
 
