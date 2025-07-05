@@ -2,9 +2,8 @@
 
  <!--![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif) -->
 
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/itsriyas-exe" target="_blank" rel="noopener noreferrer">Riyas 👋
-<br>
- 
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/itsriyaas" target="_blank" rel="noopener noreferrer">Riyas 👋</h2>
+
 
 
 💻 Passionate Full-Stack Developer | JavaScript, React, Node.js | Building clean, scalable web apps 
