@@ -49,7 +49,7 @@ With my skills and experience, I can help turn your ideas into beautiful and fun
 
 <a href="https://www.linkedin.com/in/itsriyas"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn@itsriyas"></a>
 <a href="https://twitter.com/itsmozaco"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@itsmozaco"></a>
-<a href="https://instagram.com/_riyaas.x"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram@_riyaas.x"></a>
+<a href="https://instagram.com/_riyaas.x"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram@itsriyaas_"></a>
 <a href="https://dev.to/itsriyas"><img src="https://img.shields.io/badge/dev.to--_.svg?style=social&logo=dev.to" alt="Dev@itsriyas"></a>
 
 
