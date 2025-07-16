@@ -55,8 +55,8 @@ With my skills and experience, I can help turn your ideas into beautiful and fun
 
 </p>
 
-
-![GitHub last commit](/svg/last%20commit.svg)
+<!--
+![GitHub last commit](/svg/last%20commit.svg)-->
 
 
 
