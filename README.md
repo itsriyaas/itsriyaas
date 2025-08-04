@@ -1,4 +1,4 @@
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=itsriyaas.visitor-badge&format=true)
 
  <!--![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif) -->
 
@@ -31,7 +31,6 @@ With my skills and experience, I can help turn your ideas into beautiful and fun
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br />
 
 <!--<p>
     <details>
@@ -54,10 +53,22 @@ With my skills and experience, I can help turn your ideas into beautiful and fun
 
 
 </p>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <!--
 ![GitHub last commit](/svg/last%20commit.svg)-->
-
 
 
 <p align="center">
